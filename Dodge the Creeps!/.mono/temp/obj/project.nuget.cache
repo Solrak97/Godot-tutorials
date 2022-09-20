@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fr5t9ByCR6HY3FOn4zSBCdpvlCxGS1tu14dMOcQiwR6mXWqvPEIDsVfmViRk2c8shqQ4eW/mJ620ZC3yXiUOfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luisc\\Documents\\Godot-tutorials\\Dodge the Creeps!\\Dodge the Creeps!.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luisc\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\luisc\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

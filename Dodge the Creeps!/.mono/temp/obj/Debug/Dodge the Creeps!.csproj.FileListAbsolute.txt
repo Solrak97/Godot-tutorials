@@ -1,0 +1,9 @@
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\bin\Debug\Dodge the Creeps!.dll
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\bin\Debug\Dodge the Creeps!.pdb
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.csproj.AssemblyReference.cache
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.AssemblyInfoInputs.cache
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.AssemblyInfo.cs
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.csproj.CoreCompileInputs.cache
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.dll
+C:\Users\luisc\Documents\Godot-tutorials\Dodge the Creeps!\.mono\temp\obj\Debug\Dodge the Creeps!.pdb
